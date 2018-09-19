@@ -1,0 +1,270 @@
+{
+  "schedule": [
+    {
+      "date": "2018-09-20 19:00:00 ",
+      "opponent": "Movistar Estudiantes",
+      "venue": "Stadium Arena A",
+      "league": "Basketball Champions League - Qualification Round",
+      "homeGame": true
+    },
+    {
+      "date": "2018-09-22 19:00:00",
+      "opponent": "Movistar Estudiantes",
+      "venue": "Torrejón de Ardoz, Pabellón Jorge Garbajosa Arena",
+      "league": "Basketball Champions League - Qualification Round",
+      "homeGame": false
+    },
+    {
+      "date": "2018-09-28 19:00:00",
+      "opponent": "KFUM Nassjo Basket",
+      "venue": "Nassjo Sporthall",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-10-02 19:00:00",
+      "opponent": "Uppsala Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-10-05 19:00:00",
+      "opponent": "UMEA Bskt",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-10-12 19:00:00",
+      "opponent": "Jamtland",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-10-16 19:00:00",
+      "opponent": "Boras Basket",
+      "venue": "Borashallen",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-10-23 19:00:00",
+      "opponent": "Kopping Stars",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-10-27 16:00:00",
+      "opponent": "Wetterbygden Stars Huskvarna",
+      "venue": "Huskvarna Sporthall",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-11-03 15:00:00",
+      "opponent": "Koping Stars",
+      "venue": "Karlbergshallen - Köping",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-11-06 19:00:00",
+      "opponent": "KFUM Nassjo Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-11-09 19:00:00",
+      "opponent": "Uppsala Basket",
+      "venue": "Fyrishov",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-11-16 19:00:00",
+      "opponent": "UMEA Bskt",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-11-20 19:00:00",
+      "opponent": "Jamtland Basket",
+      "venue": "Ostersunds Sporthall",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-11-23 19:00:00",
+      "opponent": "Boras Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-12-06 19:00:00",
+      "opponent": "Sodertalje",
+      "venue": "Taljehallen",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-12-09 15:00:00",
+      "opponent": "Wetterbygden Stars Huskvarna",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-12-14 19:00:00",
+      "opponent": "BC LF Lulea",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-12-18 19:00:00",
+      "opponent": "Sodertalje",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-12-19 19:00:00",
+      "opponent": "BC LF Lulea",
+      "venue": "Lulea Energi Arena",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2018-12-27 19:00:00",
+      "opponent": "Koping Stars",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2018-12-30 15:00:00",
+      "opponent": "KFUM Nassjo Basket",
+      "venue": "Nassjo Sporthall",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-01-04 19:00:00",
+      "opponent": "Uppsala Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2019-01-08 17:00:00",
+      "opponent": "UMEA Bskt",
+      "venue": "Udominate Arena",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-01-11 19:00:00",
+      "opponent": "Jamtland Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2019-01-17 19:00:00",
+      "opponent": "Boras Basket",
+      "venue": "Borashallen",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-01-22 19:00:00",
+      "opponent": "Sodertalje",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2019-01-25 19:00:00",
+      "opponent": "Wetterbygden Stars Huskvarna",
+      "venue": "Huskvarna Sporthall",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-02-01 19:00:00",
+      "opponent": "BC LF Lulea",
+      "venue": "Lulea Energi Arena",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-02-04 19:00:00",
+      "opponent": "KFUM Nassjo Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2019-02-09 15:00:00",
+      "opponent": "Koping Stars",
+      "venue": "Karlbergshallen - Köping",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-02-12 19:00:00",
+      "opponent": "Uppsala Basket",
+      "venue": "Fyrishov",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-02-15 17:00:00",
+      "opponent": "UMEA Bskt",
+      "venue": "Udominate Arena",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-03-02 19:00:00",
+      "opponent": "Jamtland Basket",
+      "venue": "Ostersunds Sporthall",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-03-08 19:00:00",
+      "opponent": "Boras Basket",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2019-03-12 19:00:00",
+      "opponent": "Sodertalje",
+      "venue": "Taljehallen",
+      "league": "Sewedish Basketball League",
+      "homeGame": false
+    },
+    {
+      "date": "2019-03-19 19:00:00",
+      "opponent": "Wetterbygden Stars Huskvarna",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    },
+    {
+      "date": "2019-03-15 19:00:00",
+      "opponent": "BC LF Lulea",
+      "venue": "Stadium Arena A",
+      "league": "Sewedish Basketball League",
+      "homeGame": true
+    }
+  ]
+}
